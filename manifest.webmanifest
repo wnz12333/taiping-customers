@@ -1,0 +1,1 @@
+{"id":"./","name":"太平客户","short_name":"太平客户","lang":"zh-CN","description":"本机保存的客户资料与 Excel 导出","start_url":"./","scope":"./","display":"standalone","orientation":"any","background_color":"#f5f7fb","theme_color":"#f5f7fb","icons":[{"src":"./pwa-icon.png","sizes":"1024x1024","type":"image/png","purpose":"any"}]}
